@@ -1,0 +1,10 @@
+F:\VS2013项目源码文件\随机点名\Call The Roll\bin\Debug\Call The Roll.exe.config
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Debug\Call_The_Roll.Form1.resources
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Debug\Call_The_Roll.Form2.resources
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Debug\Call_The_Roll.Properties.Resources.resources
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Debug\Call The Roll.csproj.GenerateResource.Cache
+F:\VS2013项目源码文件\随机点名\Call The Roll\bin\Debug\Call The Roll.exe
+F:\VS2013项目源码文件\随机点名\Call The Roll\bin\Debug\Call The Roll.pdb
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Debug\Call The Roll.exe
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Debug\Call The Roll.pdb
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Debug\Call_The_Roll.Form3.resources

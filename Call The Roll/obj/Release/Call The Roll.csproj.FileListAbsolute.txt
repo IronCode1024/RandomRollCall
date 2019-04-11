@@ -1,0 +1,12 @@
+F:\VS2013项目源码文件\随机点名\Call The Roll\bin\Release\Call The Roll.exe.config
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Release\Call The Roll.csprojResolveAssemblyReference.cache
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Release\Call_The_Roll.Form1.resources
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Release\Call_The_Roll.Form2.resources
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Release\Call_The_Roll.Form3.resources
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Release\Call_The_Roll.Properties.Resources.resources
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Release\Call The Roll.csproj.GenerateResource.Cache
+F:\VS2013项目源码文件\随机点名\Call The Roll\bin\Release\Call The Roll.exe
+F:\VS2013项目源码文件\随机点名\Call The Roll\bin\Release\Call The Roll.pdb
+F:\VS2013项目源码文件\随机点名\Call The Roll\bin\Release\IrisSkin2.dll
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Release\Call The Roll.exe
+F:\VS2013项目源码文件\随机点名\Call The Roll\obj\Release\Call The Roll.pdb
